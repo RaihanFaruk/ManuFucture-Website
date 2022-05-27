@@ -12,4 +12,10 @@ China Manufucture Server Side [click Here](https://github.com/programming-hero-w
 5. MongoDB
 5. Mongose
 
-n
+## Short Description 
+this website has 6 services
+it has login form and register form
+Order ,Delete , Price services are available
+IN website we show has some dynamic review
+users can register and login
+users can see dashbord in details when then click details button
