@@ -1,6 +1,6 @@
 # iCraft An Handi Craft Online Shop
 
-iCraft Live Site [click Here](https://china-manufucture.web.app/).
+Live Site [click Here](https://china-manufucture.web.app/).
 </br>
 iCraft Server Side [click Here]().
 
