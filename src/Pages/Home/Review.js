@@ -20,13 +20,13 @@ const Review = () => {
     }
 
     return (
-        <div className='mt-24 pb-36 bg-white'>
-            <h3 className='text-2xl text-center font-bold my-4'><span className=' border-b-2 border-primary'>Customar Reviews</span></h3>
+        <div className='mt-20 pb-30 bg-lime-200'>
+            <h3 className='text-2xl text-center font-bold my-4'><span className=' border-b-2 border-green'>Customar Reviews</span></h3>
             <Swiper pagination={true} modules={[Pagination]} className="mySwiper w-2/4">
                 {
                     reviews?.slice(0, 20)?.reverse()?.map(({ _id, name, img, description, review }) => (
                         <SwiperSlide key={_id}>
-                            <div class="card w-96 bg-gray-300 shadow-xl">
+                            <div class="card w-96 bg-fuchsia-500 shadow-xl">
                                 <figure class="px-10 pt-10">
                                     <img src={img} alt="Shoes" class="rounded-xl" />
                                 </figure>

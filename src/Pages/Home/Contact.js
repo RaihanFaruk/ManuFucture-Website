@@ -9,7 +9,7 @@ const Contact = () => {
         </p>
         <h1 className='text-4xl'>Stay connected with us</h1>
       </div>
-      <div className='grid grid-cols-1 justify-items-center gap-5 bg-gradient-to-r from-violet-500 to-fuchsia-500 py-10'>
+      <div className='grid grid-cols-1 justify-items-center gap-5 bg-gradient-to-r from-red-500 to-fuchsia-500 py-5'>
         <input
           type='text'
           placeholder='Email Address'

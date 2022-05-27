@@ -18,7 +18,7 @@ const Banner = () => {
                             <div className="hero-content flex-col lg:flex-row">
                                 <img src={slide2} className="max-w-sm rounded-lg shadow-2xl" alt='' />
                                 <div>
-                                    <h1 className="text-5xl font-bold">Big Choice Of Plumbing Products!</h1>
+                                    <h1 className="text-5xl font-bold">Power Machinery</h1>
                                     <p className="py-6">We provide best qualitis products. An ever, We ar most trusted in this world Provident cupiditate voluptatem et in. exercitationem quasi.</p>
                                     <Link to='/products' className="btn btn-primary">Get Started</Link>
                                 </div>
@@ -54,7 +54,7 @@ const Banner = () => {
                             <div className="hero-content flex-col lg:flex-row">
                                 <img src={slide1} className="max-w-sm rounded-lg shadow-2xl" alt='' />
                                 <div>
-                                    <h1 className="text-5xl font-bold">Scrowdrivers Proffessional Tools!</h1>
+                                    <h1 className="text-5xl font-bold">Brandix Air Compressor DELTAKX500</h1>
                                     <p className="py-6">We provide best qualitis products. An ever, We ar most trusted in this world Provident cupiditate voluptatem et in. exercitationem quasi.</p>
                                     <Link to='/products' className="btn btn-primary">Get Started</Link>
                                 </div>

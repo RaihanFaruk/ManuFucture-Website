@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+h1{
+    font-family: 'Kalam', cursive;
+}
+p{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+font-family: 'Kalam', cursive;
+}
