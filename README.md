@@ -1,6 +1,6 @@
 # China Manufucture Online Shop
 
-Live Site [click Here](https://china-manufucture.web.app/).
+China Manufucture Live Site [click Here](https://china-manufucture.web.app/).
 </br>
 iCraft Server Side [click Here]().
 
